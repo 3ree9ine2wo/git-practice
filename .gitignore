@@ -26,3 +26,4 @@
 # logs/**/debug.log?\
 
 secrets.yaml
+gitToken
